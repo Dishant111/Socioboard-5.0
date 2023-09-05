@@ -104,16 +104,16 @@
       "payment_invoice": "Dev - Payment Invoice"
     },
     "mysql": {
-      "host": "localhost",
-      "username": "<< username >>",
-      "database": "<< Database name >>",
-      "password": "<< Database password >>"
+      "username": "root",
+      "password": "root",
+      "database": "sociov5dev",
+      "host": "127.0.0.1"
     },
     "mongo": {
-      "username": "<< username >>",
-      "password": "<< Database password >>",
-      "host": "<< host >>",
-      "db_name": "<< Database name >>"
+      "username": "",
+      "password": "",
+      "host": "localhost",
+      "db_name": "sqlmongo"
     },
     "authorize": {
       "secret": "<< RANDOM SECRET >>",
@@ -146,9 +146,9 @@
       "host_url": "https://notifyv5.socioboard.com"
     },
     "twilio": {
-      "account_sid": "<< twilio account_sid >>",
-      "auth_key": "<< twilio auth_key >>",
-      "service_id": "<< twilio service_id >>"
+      "account_sid": "ACjshgahjfhsad",
+      "auth_key": "fdjsgfjh",
+      "service_id": "ACigdifh"
     }
   }
   

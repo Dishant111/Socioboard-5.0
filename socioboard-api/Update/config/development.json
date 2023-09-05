@@ -48,15 +48,15 @@
     }
   },
   "mysql": {
-    "host": "localhost",
-    "username": "<< username >>",
-    "database": "<< Database name >>",
-    "password": "<< Database password >>"
+    "username": "root",
+    "password": "root",
+    "database": "sociov5dev",
+    "host": "127.0.0.1"
   },
   "mongo": {
-    "username": "<< username >>",
-    "password": "<< Database password >>",
-    "host": "<< host >>",
-    "db_name": "<< Database name >>"
+    "username": "",
+    "password": "",
+    "host": "localhost",
+    "db_name": "sqlmongo"
   }
 }

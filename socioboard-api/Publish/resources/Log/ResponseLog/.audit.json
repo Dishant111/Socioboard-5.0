@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 7
+    },
+    "auditLog": "C:\\Users\\ranad\\OneDrive\\Desktop\\SocioBoard\\Socioboard-5.0\\socioboard-api\\Publish\\resources\\Log\\ResponseLog/.audit.json",
+    "files": [
+        {
+            "date": 1693935126876,
+            "name": "C:\\Users\\ranad\\OneDrive\\Desktop\\SocioBoard\\Socioboard-5.0\\socioboard-api\\Publish\\resources\\Log\\ResponseLog\\2023-09-05-logs.log",
+            "hash": "5c1707f40ad3e20c211a15e6206d7ea7"
+        }
+    ]
+}

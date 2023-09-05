@@ -6,9 +6,10 @@
     "auditLog": "resources/Log/ResponseLog/.6e1b33824225537e834fbe4fe2214f25023b619f-audit.json",
     "files": [
         {
-            "date": 1634809825478,
-            "name": "resources/Log/ResponseLog/publish21-10-2021.log",
-            "hash": "5cfffb27b8ad3f4254c874936a7317ec"
+            "date": 1693935266697,
+            "name": "resources\\Log\\ResponseLog\\publish05-09-2023.log",
+            "hash": "94ce4473b4b656b2ff98326a25b1f623defda0a6737229313b6968848a3c420e"
         }
-    ]
+    ],
+    "hashType": "sha256"
 }
